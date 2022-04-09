@@ -10,5 +10,12 @@
 		<classes>
 			<class name="testPack.TestB" />
 		</classes>
-	</test><!-- Test -->
+	</test>	
+		<test name="Test C">
+		<classes>
+			<class name="testPack.TestC" />
+		</classes>
+	</test>
+	
+	<!-- Test -->
 </suite> <!-- Suite -->
