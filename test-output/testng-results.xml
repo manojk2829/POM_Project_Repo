@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5042" started-at="2022-04-09T11:30:36Z" finished-at="2022-04-09T11:30:41Z">
+    <groups>
+    </groups>
+    <test name="Test B" duration-ms="36" started-at="2022-04-09T11:30:36Z" finished-at="2022-04-09T11:30:36Z">
+      <class name="testPack.TestB">
+        <test-method status="PASS" signature="test_1()[pri:0, instance:testPack.TestB@6ae5aa72]" name="test_1" duration-ms="13" started-at="2022-04-09T17:00:36Z" finished-at="2022-04-09T17:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+        <test-method status="PASS" signature="test_b()[pri:0, instance:testPack.TestB@6ae5aa72]" name="test_b" duration-ms="0" started-at="2022-04-09T17:00:36Z" finished-at="2022-04-09T17:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_b -->
+      </class> <!-- testPack.TestB -->
+    </test> <!-- Test B -->
+    <test name="Test A" duration-ms="5042" started-at="2022-04-09T11:30:36Z" finished-at="2022-04-09T11:30:41Z">
+      <class name="testPack.TestA">
+        <test-method status="PASS" signature="test_a()[pri:0, instance:testPack.TestA@323b36e0]" name="test_a" duration-ms="5019" started-at="2022-04-09T17:00:36Z" finished-at="2022-04-09T17:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_a -->
+        <test-method status="PASS" signature="test_a1()[pri:0, instance:testPack.TestA@323b36e0]" name="test_a1" duration-ms="2" started-at="2022-04-09T17:00:41Z" finished-at="2022-04-09T17:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_a1 -->
+      </class> <!-- testPack.TestA -->
+    </test> <!-- Test A -->
+  </suite> <!-- Suite -->
+</testng-results>
