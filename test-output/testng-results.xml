@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12135" started-at="2022-04-09T14:40:21Z" finished-at="2022-04-09T14:40:33Z">
+  <suite name="Default suite" duration-ms="11927" started-at="2022-04-10T05:52:12Z" finished-at="2022-04-10T05:52:24Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12135" started-at="2022-04-09T14:40:21Z" finished-at="2022-04-09T14:40:33Z">
+    <test name="Default test" duration-ms="11927" started-at="2022-04-10T05:52:12Z" finished-at="2022-04-10T05:52:24Z">
       <class name="testCases.LoginTest">
-        <test-method status="PASS" signature="login_Zoho()[pri:0, instance:testCases.LoginTest@4bec1f0c]" name="login_Zoho" duration-ms="12117" started-at="2022-04-09T20:10:21Z" finished-at="2022-04-09T20:10:33Z">
+        <test-method status="PASS" signature="login_Zoho()[pri:0, instance:testCases.LoginTest@29ca901e]" name="login_Zoho" duration-ms="11909" started-at="2022-04-10T11:22:12Z" finished-at="2022-04-10T11:22:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_Zoho -->

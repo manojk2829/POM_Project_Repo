@@ -11,7 +11,7 @@ import pages.LaunchPage;
 import pages.PasswordPage;
 import pages.UserNamePage;
 
-public class LoginTest  extends BasePages{
+public class LoginTest extends BasePages{
 	
 	@Test
 	public void login_Zoho() throws InterruptedException{
@@ -21,7 +21,7 @@ public class LoginTest  extends BasePages{
 		
 		LaunchPage lp=new LaunchPage(dr);
 		HomeLoginPage hp=lp.navigateHomePage();
-		hp.validateTitle("ZohoPage");
+		//hp.validateTitle("ZohoPage");
 		UserNamePage un=hp.gotoLoginPage();
 		PasswordPage pp=un.submitUserName("manojk2829@gmail.com");
 		Thread.sleep(3000);
